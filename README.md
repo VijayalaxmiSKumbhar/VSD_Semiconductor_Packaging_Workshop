@@ -1,8 +1,11 @@
 # Module 1 - Packaging Evolution: From Basics to 3D Integration
 
-## L1: Introduction to Semiconductor Packaging and Industry Overview
 
-#### Why is Semiconductor Packaging is needed?
+<details>
+<summary> L1: Introduction to Semiconductor Packaging and Industry Overview </summary>
+<br>
+
+  #### Why is Semiconductor Packaging is needed?
 
 ` Packaging can be viewed as the process of giving functionality, protection, and connectivity to a fabricated semiconductor die, enabling its successful operation in real-world electronic systems.`
 
@@ -56,4 +59,12 @@ The OSAT stage generally includes:
 - **Package Test** – Functional, electrical, and reliability testing of the packaged device before shipment.
 
 <img width="1267" height="626" alt="image" src="https://github.com/user-attachments/assets/ff2e0eab-29da-4086-a75b-a1ecc46b5572" />
+
+ 
+</details>
+
+
+
+
+
 
