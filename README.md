@@ -89,7 +89,7 @@ How do we choose the right package?
 
 #### `Typical Package Structure`
 
-<img width="748" height="267" alt="image" src="https://github.com/user-attachments/assets/4131735b-f35e-4f62-9e15-7fbe5f42f6ae" />
+<img width="1281" height="323" alt="image" src="https://github.com/user-attachments/assets/2db07db5-bd9c-46a4-9920-7532dbbf84d0" />
 
 #### `Some of the familiar Packages`
 
@@ -111,9 +111,31 @@ How do we choose the right package?
 
 </details>
 
+<details>
+<summary> L3 - Evolving Package Architectures - From Single Chip To Multi-Chip Modules </summary>
+<br>
+
+#### `Anatomy of Packages`
+
+1. `Based on carrier: Leadframe`
+
+<img width="506" height="587" alt="image" src="https://github.com/user-attachments/assets/a2a0038d-56b2-4139-a4df-8ede6f364606" />
+
+2. `Laminate`
+
+<img width="383" height="597" alt="image" src="https://github.com/user-attachments/assets/2815110a-dec8-4cb2-8e9c-bd47be83ccf5" />
+
+3. `Advanced Package Substrates`
+
+<img width="381" height="592" alt="image" src="https://github.com/user-attachments/assets/09e35d68-c26f-484d-a878-ef9e30fe79d6" />
+
+
+</details>
+
+<details>
+<summary> L4 - Interposers Re-distribution Layers And 2.5D/3D Packaging Approaches </summary>
+<br>
 
 
 
-
-
-
+<details>
