@@ -136,6 +136,26 @@ How do we choose the right package?
 <summary> L4 - Interposers Re-distribution Layers And 2.5D/3D Packaging Approaches </summary>
 <br>
 
+- **Interposers:** Provide high-density chip-to-chip interconnections and enable heterogeneous integration.
+  
+- **Redistribution Layers (RDLs):** Re-route I/O signals to support flexible and dense package connections.
+- 
+- **2.5D Packaging:** Places multiple dies on a shared interposer for high-bandwidth communication.
+  
+- **3D Packaging:** Stacks dies vertically to achieve higher integration density and performance.
 
+#### Nomenclature of Packages
+
+<img width="1287" height="613" alt="image" src="https://github.com/user-attachments/assets/c468532f-55f5-4fd6-8ebe-ae183f9e7de1" />
+
+</details>
 
 <details>
+<summary> L5 - Comparative Analysis And Selecting The Right Packaging Solution </summary>
+<br>
+
+#### `Comparison based on Pros, Cons and Common Application`
+
+<img width="1292" height="642" alt="image" src="https://github.com/user-attachments/assets/0db21a5e-e342-472f-9731-2d4ba3477848" />
+
+</details>
