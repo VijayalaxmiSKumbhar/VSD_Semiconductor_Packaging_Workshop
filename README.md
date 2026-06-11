@@ -65,6 +65,55 @@ The OSAT stage generally includes:
 
 
 
+<details>
+<summary> L2 - Understanding Package Requirements And Foundational Package Types </summary>
+<br>
+
+## Silicon Lifecycle
+
+<img width="572" height="508" alt="image" src="https://github.com/user-attachments/assets/1600fe62-3561-4ef7-95f2-2014673b7515" />
+
+#### `Product Requirements`
+
+How do we choose the right package?
+
+* Based on
+  * `Application`
+  * `Pin Count`
+  * `Thermal Dissipation`
+  * `Form Factor`
+  * `Reliability and Durability`
+  * `Cost`
+
+<img width="1155" height="582" alt="image" src="https://github.com/user-attachments/assets/034d7294-699a-421c-90b4-6a5b2d6cdc5b" />
+
+#### `Typical Package Structure`
+
+<img width="748" height="267" alt="image" src="https://github.com/user-attachments/assets/4131735b-f35e-4f62-9e15-7fbe5f42f6ae" />
+
+#### `Some of the familiar Packages`
+
+- **DIP**: Dual In-line Package
+- **TO**: Transistor Outline
+- **PGA**: Pin Grid Array
+- **QFN**: Quad Flat No-Lead
+- **QFP**: Quad Flat Package
+- **CSP**: Chip Scale Package
+- **PBGA**: Plastic Ball Grid Array
+- **LGA**: Land Grid Array
+- **PoP**: Package on Package
+- **MCM**: Multi-Chip Module
+- **CoWoS**: Chip-on-Wafer-on-Substrate
+
+<img width="1272" height="327" alt="image" src="https://github.com/user-attachments/assets/fcf99ca2-de8b-4b27-91d7-805638ee93dd" />
+
+
+
+</details>
+
+
+
+
 
 
 
