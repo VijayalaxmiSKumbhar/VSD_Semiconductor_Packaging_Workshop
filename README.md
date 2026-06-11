@@ -159,3 +159,20 @@ How do we choose the right package?
 <img width="1292" height="642" alt="image" src="https://github.com/user-attachments/assets/0db21a5e-e342-472f-9731-2d4ba3477848" />
 
 </details>
+
+# Module2 - From Wafer to Package: Assembly and Manufacturing Essentials
+
+
+<details>
+<summary> L1 - Setting The Stage - Supply Chain And Facilities </summary>
+<br>
+
+* `Review of Supply Chain`
+
+<img width="1293" height="607" alt="image" src="https://github.com/user-attachments/assets/48a6633a-5572-496e-9b38-268c8211dfb6" />
+
+* `Introduction: Package Manufacturing Unit`
+
+<img width="1296" height="628" alt="image" src="https://github.com/user-attachments/assets/08100c1a-947e-4c34-9e51-bae0e302f1b8" />
+
+</details>
