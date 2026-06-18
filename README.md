@@ -187,11 +187,32 @@ How do we choose the right package?
 
 * Video Link: A Look Inside - Amkor Manufacturing `(https://www.youtube.com/watch?v=hR5orrmpoeE)`
 
+</details>
 
 
+<details>
+<summary> L3 - Wire Bond Packaging - Die Attach To Molding </summary>
+<br>
+
+<img width="1291" height="645" alt="image" src="https://github.com/user-attachments/assets/7a4c0a77-a8d1-47ea-8814-8bea2768b41c" />
 
 
+</details>
+
+<details>
+<summary> L4 - Flip Chip Assembly - Bump Formation And Underfill </summary>
+<br>
+
+<img width="1287" height="641" alt="image" src="https://github.com/user-attachments/assets/2931b3de-08ca-4dbe-9b0b-9916b9673b0c" />
 
 
+</details>
+
+
+<details>
+<summary> L5 - Wafer Level Packaging And Conclusion </summary>
+<br>
+
+<img width="1292" height="641" alt="image" src="https://github.com/user-attachments/assets/8fa31586-46a8-4024-a414-a6408b0cf0a9" />
 
 </details>
