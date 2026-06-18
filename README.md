@@ -216,3 +216,15 @@ How do we choose the right package?
 <img width="1292" height="641" alt="image" src="https://github.com/user-attachments/assets/8fa31586-46a8-4024-a414-a6408b0cf0a9" />
 
 </details>
+
+
+# Module 3 - Labs: Thermal Simulation of Semiconductor Packages with ANSYS
+
+<details>
+<summary> L1 - Introduction And Getting Started With ANSYS Electronics Desktop </summary>
+<br>
+
+
+
+</details>
+
