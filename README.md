@@ -176,3 +176,22 @@ How do we choose the right package?
 <img width="1296" height="628" alt="image" src="https://github.com/user-attachments/assets/08100c1a-947e-4c34-9e51-bae0e302f1b8" />
 
 </details>
+
+<details>
+<summary> L2 - Wafer Pre-Preparation - Grinding And Dicing </summary>
+<br>
+
+#### Activities Inside the Clean Room Area
+
+<img width="1297" height="636" alt="image" src="https://github.com/user-attachments/assets/5eb9497d-c1df-42a4-a559-f4fb76cbeb00" />
+
+* Video Link: A Look Inside - Amkor Manufacturing `(https://www.youtube.com/watch?v=hR5orrmpoeE)`
+
+
+
+
+
+
+
+
+</details>
